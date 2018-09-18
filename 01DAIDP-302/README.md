@@ -67,6 +67,7 @@ Click on **IoTHub**
 Make sure you select the resource group you created in previous step.
 
 In the Name field, enter a unique name for your IoT hub. The name of your IoT hub must be **unique** across all IoT hubs.
+For this lab chose **West Central US**.
 
 ![Create IoTHub](images/05_Create_IoTHub_Submit_2.png)
 
