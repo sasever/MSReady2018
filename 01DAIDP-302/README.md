@@ -82,7 +82,7 @@ For details about the other tier options, see [Choosing the right IoT Hub tier](
 
 ![Create IoTHub](images/05_Create_IoTHub_Submit_2_review.png)
 
-Click **Review and Create** button.
+Click **Review and Create** button. Review the shown configuration and clicl the **Create** button
 
 ## Connect PI Simulator to IoT Hub
 
