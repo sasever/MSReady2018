@@ -152,7 +152,12 @@ Create two consumer groups for
 
 ## Connect Device and Send Data to IoThub
 
-This Lab assumes you are using MXChip as the Device
+This Lab assumes you are using MXChip as the Device.
+
+If you do not have MXChip, you can open the 
+[PI Simulator](https://azure-samples.github.io/raspberry-pi-web-simulator/#GetStarted) again in a different window, 
+edit the  deviceId: 'Raspberry Pi Web Client' (line 29) part to give a new name to your device, and create a new device twin on IoT Hub,
+and update the **connectionString** with the primary key info of the new devide twin and run.
 
 ![MXChip](images/MxChip.jpg)
 
