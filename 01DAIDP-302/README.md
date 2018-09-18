@@ -67,7 +67,7 @@ Click on **IoTHub**
 Make sure you select the resource group you created in previous step.
 
 In the Name field, enter a unique name for your IoT hub. The name of your IoT hub must be **unique** across all IoT hubs.
-For this lab chose **West Central US**.
+For this lab chose **North Europe**.
 
 ![Create IoTHub](images/05_Create_IoTHub_Submit_2.png)
 
@@ -217,7 +217,7 @@ Select the appropriate consumer group and click Create button
 
 ### Setup Time Series Insights
 
-Go To Time Series Insights, Click on Go To Environment which will take you to Time Series Insights Explorer
+Click on **Overview** to go to main page and click on Go To Environment which will take you to Time Series Insights Explorer
 
 If you get Data Access Policy Error execute the following steps
 
