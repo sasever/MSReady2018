@@ -111,7 +111,7 @@ Click on the device and copy the primary key connection string.
 
 ![Resource Group](images/connection-string.png)
 
-Click on the link below to go to the PI Simulator
+Open below link on a new window to go to the PI Simulator
 
 [PI Simulator](https://azure-samples.github.io/raspberry-pi-web-simulator/#GetStarted)
 
