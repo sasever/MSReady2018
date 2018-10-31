@@ -135,20 +135,16 @@ Messages will start flowing into IoT Hub
 
 ## Create Consumer Groups to Route Data
 
-Under IoTHub, Messaging click on **Endpoints**
+Under IoTHub, Settings click on **Build-in endpoints**
 
-![Endpoints](images/endpoints.png)
-
-Click on **Events**
-
-![Events](images/events.png)
+Expand **Events** and go to **CONSUMER GROUPS**
 
 Create two consumer groups for
 
-* Time Series Insights
+* Time Series Insights *(name can be anything, ie we chose tsi in below image)*
 * Stream Analytics
 
-![Events](images/consumergroups.png)
+![Endpoints](images/customEndpoint.png)
 
 ## Connect Device and Send Data to IoThub
 
